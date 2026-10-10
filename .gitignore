@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+scripts/node_modules/
+~$*.xlsx
+*.log
+output/qa/

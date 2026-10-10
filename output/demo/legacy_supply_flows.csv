@@ -1,0 +1,37 @@
+﻿supplier_id,ingredient,period,available_tonnes,participation_limit,price,handling,freight_per_tonne,freight_per_truck,transport_loss,quality_eligible,road_km,data_status,purchased_tonnes,delivered_tonnes,truckloads,purchase_cost,handling_cost,freight_cost,site,status
+Karacabey,Kapya biber,1,1600,1.0,18000,250.0,324.0,6480.0,0.0,1,81,ASSUMED,1600.0,1600.0,,28800000.0,400000.0,518400.0,Balikesir-Gonen,ASSUMED
+Salihli,Kapya biber,1,1600,1.0,17500,250.0,1004.0,20080.0,0.0,1,251,ASSUMED,400.0,400.0,,7000000.0,100000.0,401600.0,Balikesir-Gonen,ASSUMED
+Akhisar,Kapya biber,1,600,1.0,17800,250.0,812.0,16240.0,0.0,1,203,ASSUMED,0.0,0.0,,0.0,0.0,0.0,Balikesir-Gonen,ASSUMED
+Susurluk,Kapya biber,1,1000,1.0,18100,250.0,288.0,5760.0,0.0,1,72,ASSUMED,1000.0,1000.0,,18100000.0,250000.0,288000.0,Balikesir-Gonen,ASSUMED
+Karacabey,Salcalik domates,1,1800,1.0,8000,250.0,324.0,6480.0,0.0,1,81,ASSUMED,1800.0,1800.0,,14400000.0,450000.0,583200.0,Balikesir-Gonen,ASSUMED
+Salihli,Salcalik domates,1,1100,1.0,7800,250.0,1004.0,20080.0,0.0,1,251,ASSUMED,0.0,0.0,,0.0,0.0,0.0,Balikesir-Gonen,ASSUMED
+Akhisar,Salcalik domates,1,1200,1.0,8100,250.0,812.0,16240.0,0.0,1,203,ASSUMED,0.0,0.0,,0.0,0.0,0.0,Balikesir-Gonen,ASSUMED
+Susurluk,Salcalik domates,1,1200,1.0,8150,250.0,288.0,5760.0,0.0,1,72,ASSUMED,325.0,325.0,,2648750.0,81250.0,93600.0,Balikesir-Gonen,ASSUMED
+Karacabey,Patlican,1,350,1.0,16000,250.0,324.0,6480.0,0.0,1,81,ASSUMED,350.0,350.0,,5600000.0,87500.0,113400.0,Balikesir-Gonen,ASSUMED
+Salihli,Patlican,1,450,1.0,15500,250.0,1004.0,20080.0,0.0,1,251,ASSUMED,0.0,0.0,,0.0,0.0,0.0,Balikesir-Gonen,ASSUMED
+Akhisar,Patlican,1,400,1.0,15800,250.0,812.0,16240.0,0.0,1,203,ASSUMED,0.0,0.0,,0.0,0.0,0.0,Balikesir-Gonen,ASSUMED
+Susurluk,Patlican,1,450,1.0,16200,250.0,288.0,5760.0,0.0,1,72,ASSUMED,350.0,350.0,,5670000.0,87500.0,100800.0,Balikesir-Gonen,ASSUMED
+Karacabey,Kapya biber,1,1600,1.0,18000,250.0,96.0,1920.0,0.0,1,24,ASSUMED,1600.0,1600.0,,28800000.0,400000.0,153600.0,Bursa-Mustafakemalpasa,ASSUMED
+Salihli,Kapya biber,1,1600,1.0,17500,250.0,904.0,18080.0,0.0,1,226,ASSUMED,400.0,400.0,,7000000.0,100000.0,361600.0,Bursa-Mustafakemalpasa,ASSUMED
+Akhisar,Kapya biber,1,600,1.0,17800,250.0,696.0,13920.0,0.0,1,174,ASSUMED,0.0,0.0,,0.0,0.0,0.0,Bursa-Mustafakemalpasa,ASSUMED
+Susurluk,Kapya biber,1,1000,1.0,18100,250.0,128.0,2560.0,0.0,1,32,ASSUMED,1000.0,1000.0,,18100000.0,250000.0,128000.0,Bursa-Mustafakemalpasa,ASSUMED
+Karacabey,Salcalik domates,1,1800,1.0,8000,250.0,96.0,1920.0,0.0,1,24,ASSUMED,1800.0,1800.0,,14400000.0,450000.0,172800.0,Bursa-Mustafakemalpasa,ASSUMED
+Salihli,Salcalik domates,1,1100,1.0,7800,250.0,904.0,18080.0,0.0,1,226,ASSUMED,0.0,0.0,,0.0,0.0,0.0,Bursa-Mustafakemalpasa,ASSUMED
+Akhisar,Salcalik domates,1,1200,1.0,8100,250.0,696.0,13920.0,0.0,1,174,ASSUMED,0.0,0.0,,0.0,0.0,0.0,Bursa-Mustafakemalpasa,ASSUMED
+Susurluk,Salcalik domates,1,1200,1.0,8150,250.0,128.0,2560.0,0.0,1,32,ASSUMED,325.0,325.0,,2648750.0,81250.0,41600.0,Bursa-Mustafakemalpasa,ASSUMED
+Karacabey,Patlican,1,350,1.0,16000,250.0,96.0,1920.0,0.0,1,24,ASSUMED,350.0,350.0,,5600000.0,87500.0,33600.0,Bursa-Mustafakemalpasa,ASSUMED
+Salihli,Patlican,1,450,1.0,15500,250.0,904.0,18080.0,0.0,1,226,ASSUMED,0.0,0.0,,0.0,0.0,0.0,Bursa-Mustafakemalpasa,ASSUMED
+Akhisar,Patlican,1,400,1.0,15800,250.0,696.0,13920.0,0.0,1,174,ASSUMED,0.0,0.0,,0.0,0.0,0.0,Bursa-Mustafakemalpasa,ASSUMED
+Susurluk,Patlican,1,450,1.0,16200,250.0,128.0,2560.0,0.0,1,32,ASSUMED,350.0,350.0,,5670000.0,87500.0,44800.0,Bursa-Mustafakemalpasa,ASSUMED
+Karacabey,Kapya biber,1,1600,1.0,18000,250.0,976.0,19520.0,0.0,1,244,ASSUMED,0.0,0.0,,0.0,0.0,0.0,Manisa-Salihli,ASSUMED
+Salihli,Kapya biber,1,1600,1.0,17500,250.0,48.0,960.0,0.0,1,12,ASSUMED,1600.0,1600.0,,28000000.0,400000.0,76800.0,Manisa-Salihli,ASSUMED
+Akhisar,Kapya biber,1,600,1.0,17800,250.0,252.0,5040.0,0.0,1,63,ASSUMED,600.0,600.0,,10680000.0,150000.0,151200.0,Manisa-Salihli,ASSUMED
+Susurluk,Kapya biber,1,1000,1.0,18100,250.0,784.0,15680.0,0.0,1,196,ASSUMED,800.0,800.0,,14480000.0,200000.0,627200.0,Manisa-Salihli,ASSUMED
+Karacabey,Salcalik domates,1,1800,1.0,8000,250.0,976.0,19520.0,0.0,1,244,ASSUMED,0.0,0.0,,0.0,0.0,0.0,Manisa-Salihli,ASSUMED
+Salihli,Salcalik domates,1,1100,1.0,7800,250.0,48.0,960.0,0.0,1,12,ASSUMED,1100.0,1100.0,,8580000.0,275000.0,52800.0,Manisa-Salihli,ASSUMED
+Akhisar,Salcalik domates,1,1200,1.0,8100,250.0,252.0,5040.0,0.0,1,63,ASSUMED,1025.0,1025.0,,8302500.0,256250.0,258300.0,Manisa-Salihli,ASSUMED
+Susurluk,Salcalik domates,1,1200,1.0,8150,250.0,784.0,15680.0,0.0,1,196,ASSUMED,0.0,0.0,,0.0,0.0,0.0,Manisa-Salihli,ASSUMED
+Karacabey,Patlican,1,350,1.0,16000,250.0,976.0,19520.0,0.0,1,244,ASSUMED,0.0,0.0,,0.0,0.0,0.0,Manisa-Salihli,ASSUMED
+Salihli,Patlican,1,450,1.0,15500,250.0,48.0,960.0,0.0,1,12,ASSUMED,450.0,450.0,,6975000.0,112500.0,21600.0,Manisa-Salihli,ASSUMED
+Akhisar,Patlican,1,400,1.0,15800,250.0,252.0,5040.0,0.0,1,63,ASSUMED,250.0,250.0,,3950000.0,62500.0,63000.0,Manisa-Salihli,ASSUMED
+Susurluk,Patlican,1,450,1.0,16200,250.0,784.0,15680.0,0.0,1,196,ASSUMED,0.0,0.0,,0.0,0.0,0.0,Manisa-Salihli,ASSUMED

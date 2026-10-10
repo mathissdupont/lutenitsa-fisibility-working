@@ -1,0 +1,47 @@
+[
+  {
+    "file": "lutenitsa_tesis_yeri_fizibilite_lojistikli (1).xlsx",
+    "sha256": "57a7de62fdd6270d6c1ae9d61d455823c9d3bdc7ce073405b6299ec47ad60b89",
+    "bytes": 37583
+  },
+  {
+    "file": "lutenitsa_tesis_yeri_fizibilite_lojistikli.xlsx",
+    "sha256": "57a7de62fdd6270d6c1ae9d61d455823c9d3bdc7ce073405b6299ec47ad60b89",
+    "bytes": 37583
+  },
+  {
+    "file": "optimize_logistics.py",
+    "sha256": "ccb3b29bfb6c9c3074fc9c0796203b5e9cb0952e2d0496d9851bfc25c2ff3bfd",
+    "bytes": 4215
+  },
+  {
+    "file": "optimum_akis.csv",
+    "sha256": "6e170f53569c8df20924226ee95490c2c019557c0e6ea7289c4440aef041a6f9",
+    "bytes": 2987
+  },
+  {
+    "file": "README.md",
+    "sha256": "268e2866f6ada4c05de72bd5d0f8ed8d09991c782724fb7a3ca2f59acccef9da",
+    "bytes": 2165
+  },
+  {
+    "file": "rota_mesafeleri.csv",
+    "sha256": "055e9442c20a22ec9ceddf84bb3319e0bca377b856a5b37daf304eb033dfec9c",
+    "bytes": 1445
+  },
+  {
+    "file": "sonuclar.csv",
+    "sha256": "7b1f59c4afeee3a7d508b12880c5991939b119a9bfb5e35b114159e136ae057d",
+    "bytes": 269
+  },
+  {
+    "file": "talep.csv",
+    "sha256": "e1adc5ef3b59fff8213e729bb419276c5b1d061c60ecdbfbf280458e3abcd37f",
+    "bytes": 85
+  },
+  {
+    "file": "tedarik_senaryosu.csv",
+    "sha256": "5c4b218305414490d055723ebe367699db0c37cc2a2437c5f57762d03193e2dd",
+    "bytes": 780
+  }
+]

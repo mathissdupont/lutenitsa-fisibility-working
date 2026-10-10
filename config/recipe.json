@@ -1,0 +1,90 @@
+[
+  {
+    "ingredient": "PEPPER_KAPYA",
+    "label_tr": "Kırmızı kapya biber",
+    "gross_kg_per_finished_kg": 1.2,
+    "price_try_per_kg": 18,
+    "cleaning_loss": null,
+    "roasting_loss": null,
+    "season_intake_days": null,
+    "status": "ASSUMED",
+    "source": "Legacy RECETE!B6:C6; not industrially validated"
+  },
+  {
+    "ingredient": "TOMATO_PROCESSING",
+    "label_tr": "Salçalık domates",
+    "gross_kg_per_finished_kg": 0.85,
+    "price_try_per_kg": 8,
+    "cleaning_loss": null,
+    "roasting_loss": null,
+    "season_intake_days": null,
+    "status": "ASSUMED",
+    "source": "Legacy RECETE!B7:C7; not industrially validated"
+  },
+  {
+    "ingredient": "EGGPLANT",
+    "label_tr": "Patlıcan",
+    "gross_kg_per_finished_kg": 0.28,
+    "price_try_per_kg": 16,
+    "cleaning_loss": null,
+    "roasting_loss": null,
+    "season_intake_days": null,
+    "status": "ASSUMED",
+    "source": "Legacy RECETE!B8:C8; not industrially validated"
+  },
+  {
+    "ingredient": "GARLIC_DRY",
+    "label_tr": "Kuru sarımsak",
+    "gross_kg_per_finished_kg": 0.04,
+    "price_try_per_kg": 80,
+    "cleaning_loss": null,
+    "roasting_loss": null,
+    "season_intake_days": null,
+    "status": "ASSUMED",
+    "source": "Legacy RECETE!B9:C9; not industrially validated"
+  },
+  {
+    "ingredient": "REFINED_SUNFLOWER_OIL",
+    "label_tr": "Rafine ayçiçek yağı",
+    "gross_kg_per_finished_kg": 0.09,
+    "price_try_per_kg": 65,
+    "cleaning_loss": null,
+    "roasting_loss": null,
+    "season_intake_days": null,
+    "status": "ASSUMED",
+    "source": "Legacy RECETE!B10:C10; not industrially validated"
+  },
+  {
+    "ingredient": "SPICES",
+    "label_tr": "Baharat karışımı",
+    "gross_kg_per_finished_kg": 0.012,
+    "price_try_per_kg": 140,
+    "cleaning_loss": null,
+    "roasting_loss": null,
+    "season_intake_days": null,
+    "status": "ASSUMED",
+    "source": "Legacy RECETE!B11:C11; not industrially validated"
+  },
+  {
+    "ingredient": "SALT",
+    "label_tr": "Tuz",
+    "gross_kg_per_finished_kg": 0.016,
+    "price_try_per_kg": 8,
+    "cleaning_loss": null,
+    "roasting_loss": null,
+    "season_intake_days": null,
+    "status": "ASSUMED",
+    "source": "Legacy RECETE!B12:C12; not industrially validated"
+  },
+  {
+    "ingredient": "VINEGAR",
+    "label_tr": "Sirke",
+    "gross_kg_per_finished_kg": 0.025,
+    "price_try_per_kg": 20,
+    "cleaning_loss": null,
+    "roasting_loss": null,
+    "season_intake_days": null,
+    "status": "ASSUMED",
+    "source": "Legacy RECETE!B13:C13; not industrially validated"
+  }
+]

@@ -1,0 +1,9 @@
+﻿product_code,product_description,official_code,mapping_status,notes
+TOMATO_PROCESSING,Processing tomatoes,,MISSING,Project identifier; not an official TUIK code. No implicit mapping.
+TOMATO_FRESH,Fresh tomatoes,,MISSING,Project identifier; not an official TUIK code. No implicit mapping.
+PEPPER_KAPYA,Red kapya pepper,,MISSING,Project identifier; not an official TUIK code. No implicit mapping.
+PEPPER_PROCESSING,"Processing peppers, official generic class",,MISSING,Project identifier; not an official TUIK code. No implicit mapping.
+EGGPLANT,Eggplant,,MISSING,Project identifier; not an official TUIK code. No implicit mapping.
+GARLIC_DRY,Dry garlic,,MISSING,Project identifier; not an official TUIK code. No implicit mapping.
+SUNFLOWER_OILSEED,Oilseed sunflower,,MISSING,Project identifier; not an official TUIK code. No implicit mapping.
+HERBS_SPICES,Herbs and spices: disaggregate on import,,MISSING,Project identifier; not an official TUIK code. No implicit mapping.

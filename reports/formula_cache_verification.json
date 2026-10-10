@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "formula_count": 932,
+  "errors": [],
+  "cache_policy": "Every formula cache matched independent recalculation. Original XlsxWriter file preserved, including native charts/tables/validations."
+}

@@ -1,0 +1,33 @@
+{
+  "status": "NOT_ESTIMABLE",
+  "reason": "Missing landed costs, demand, outbound cost, maintenance and capacity-specific investment. No fabricated NPV, IRR or risk distribution results.",
+  "required_inputs": [
+    {
+      "site": "BURSA_MKP",
+      "label_tr": "Bursa – Mustafakemalpaşa OSB",
+      "status": "NOT_ESTIMABLE",
+      "npv": null,
+      "irr": null,
+      "payback_years": null,
+      "missing": "config.demand_kg, site.outbound_try_per_kg, site.maintenance_try, annual_landed_cost"
+    },
+    {
+      "site": "MANISA_SALIHLI",
+      "label_tr": "Manisa – Salihli OSB",
+      "status": "NOT_ESTIMABLE",
+      "npv": null,
+      "irr": null,
+      "payback_years": null,
+      "missing": "config.demand_kg, site.outbound_try_per_kg, site.maintenance_try, annual_landed_cost"
+    },
+    {
+      "site": "BALIKESIR_GONEN",
+      "label_tr": "Balıkesir – Gönen Deri İhtisas ve Karma OSB",
+      "status": "NOT_ESTIMABLE",
+      "npv": null,
+      "irr": null,
+      "payback_years": null,
+      "missing": "config.demand_kg, site.outbound_try_per_kg, site.maintenance_try, annual_landed_cost"
+    }
+  ]
+}

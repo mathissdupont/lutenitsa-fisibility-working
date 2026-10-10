@@ -1,0 +1,37 @@
+﻿site,ingredient,origin,allocated_ton_year,road_km,purchase_tl,freight_tl,handling_tl,total_tl
+Balikesir-Gonen,Kapya biber,Karacabey,1600.0,81.0,28800000.0,518400.0,400000.0,29718400.0
+Balikesir-Gonen,Kapya biber,Salihli,400.0,251.0,7000000.0,401600.0,100000.0,7501600.0
+Balikesir-Gonen,Kapya biber,Akhisar,0.0,203.0,0.0,0.0,0.0,0.0
+Balikesir-Gonen,Kapya biber,Susurluk,1000.0,72.0,18100000.0,288000.0,250000.0,18638000.0
+Balikesir-Gonen,Salcalik domates,Karacabey,1800.0,81.0,14400000.0,583200.0,450000.0,15433200.0
+Balikesir-Gonen,Salcalik domates,Salihli,0.0,251.0,0.0,0.0,0.0,0.0
+Balikesir-Gonen,Salcalik domates,Akhisar,0.0,203.0,0.0,0.0,0.0,0.0
+Balikesir-Gonen,Salcalik domates,Susurluk,325.0,72.0,2648750.0,93600.0,81250.0,2823600.0
+Balikesir-Gonen,Patlican,Karacabey,350.0,81.0,5600000.0,113400.0,87500.0,5800900.0
+Balikesir-Gonen,Patlican,Salihli,0.0,251.0,0.0,0.0,0.0,0.0
+Balikesir-Gonen,Patlican,Akhisar,0.0,203.0,0.0,0.0,0.0,0.0
+Balikesir-Gonen,Patlican,Susurluk,350.0,72.0,5670000.0,100800.0,87500.0,5858300.0
+Bursa-Mustafakemalpasa,Kapya biber,Karacabey,1600.0,24.0,28800000.0,153600.0,400000.0,29353600.0
+Bursa-Mustafakemalpasa,Kapya biber,Salihli,400.0,226.0,7000000.0,361600.0,100000.0,7461600.0
+Bursa-Mustafakemalpasa,Kapya biber,Akhisar,0.0,174.0,0.0,0.0,0.0,0.0
+Bursa-Mustafakemalpasa,Kapya biber,Susurluk,1000.0,32.0,18100000.0,128000.0,250000.0,18478000.0
+Bursa-Mustafakemalpasa,Salcalik domates,Karacabey,1800.0,24.0,14400000.0,172800.0,450000.0,15022800.0
+Bursa-Mustafakemalpasa,Salcalik domates,Salihli,0.0,226.0,0.0,0.0,0.0,0.0
+Bursa-Mustafakemalpasa,Salcalik domates,Akhisar,0.0,174.0,0.0,0.0,0.0,0.0
+Bursa-Mustafakemalpasa,Salcalik domates,Susurluk,325.0,32.0,2648750.0,41600.0,81250.0,2771600.0
+Bursa-Mustafakemalpasa,Patlican,Karacabey,350.0,24.0,5600000.0,33600.0,87500.0,5721100.0
+Bursa-Mustafakemalpasa,Patlican,Salihli,0.0,226.0,0.0,0.0,0.0,0.0
+Bursa-Mustafakemalpasa,Patlican,Akhisar,0.0,174.0,0.0,0.0,0.0,0.0
+Bursa-Mustafakemalpasa,Patlican,Susurluk,350.0,32.0,5670000.0,44800.0,87500.0,5802300.0
+Manisa-Salihli,Kapya biber,Karacabey,0.0,244.0,0.0,0.0,0.0,0.0
+Manisa-Salihli,Kapya biber,Salihli,1600.0,12.0,28000000.0,76800.0,400000.0,28476800.0
+Manisa-Salihli,Kapya biber,Akhisar,600.0,63.0,10680000.0,151200.0,150000.0,10981200.0
+Manisa-Salihli,Kapya biber,Susurluk,800.0,196.0,14480000.0,627200.0,200000.0,15307200.0
+Manisa-Salihli,Salcalik domates,Karacabey,0.0,244.0,0.0,0.0,0.0,0.0
+Manisa-Salihli,Salcalik domates,Salihli,1100.0,12.0,8580000.0,52800.0,275000.0,8907800.0
+Manisa-Salihli,Salcalik domates,Akhisar,1025.0,63.0,8302500.0,258300.0,256250.0,8817050.0
+Manisa-Salihli,Salcalik domates,Susurluk,0.0,196.0,0.0,0.0,0.0,0.0
+Manisa-Salihli,Patlican,Karacabey,0.0,244.0,0.0,0.0,0.0,0.0
+Manisa-Salihli,Patlican,Salihli,450.0,12.0,6975000.0,21600.0,112500.0,7109100.0
+Manisa-Salihli,Patlican,Akhisar,250.0,63.0,3950000.0,63000.0,62500.0,4075500.0
+Manisa-Salihli,Patlican,Susurluk,0.0,196.0,0.0,0.0,0.0,0.0

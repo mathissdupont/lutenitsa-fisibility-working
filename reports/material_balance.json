@@ -1,0 +1,10 @@
+{
+  "finished_kg": 2500000.0,
+  "gross_input_kg": 6282500.0,
+  "total_loss_and_evaporation_kg": 3782500.0,
+  "evaporation_kg": null,
+  "cleaning_and_roasting_loss_kg": null,
+  "jars": 5000000,
+  "balance_status": "MISSING_STAGE_LOSSES",
+  "storage_status": "Monthly intake, shelf life and storage capacities required"
+}

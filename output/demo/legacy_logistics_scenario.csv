@@ -1,0 +1,4 @@
+﻿site,status,total_cost,data_status,notes
+Balikesir-Gonen,OPTIMAL,85774000.0,ASSUMED,"Legacy annual three-vegetable scenario; assumed distances, zero transport losses, no seasonal storage. Not full feasibility."
+Bursa-Mustafakemalpasa,OPTIMAL,84611000.0,ASSUMED,"Legacy annual three-vegetable scenario; assumed distances, zero transport losses, no seasonal storage. Not full feasibility."
+Manisa-Salihli,OPTIMAL,83674650.0,ASSUMED,"Legacy annual three-vegetable scenario; assumed distances, zero transport losses, no seasonal storage. Not full feasibility."

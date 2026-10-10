@@ -1,0 +1,9 @@
+﻿ingredient,label_tr,gross_ratio,gross_kg,gross_tonnes,cleaning_loss,roasting_loss,post_cleaning_kg,post_roasting_kg,season_intake_days,season_daily_tonnes,average_daily_use_tonnes,price_try_per_kg,status,source
+PEPPER_KAPYA,Kırmızı kapya biber,1.2,3000000.0,3000.0,,,,,,,12.0,18,ASSUMED,Legacy RECETE!B6:C6; not industrially validated
+TOMATO_PROCESSING,Salçalık domates,0.85,2125000.0,2125.0,,,,,,,8.5,8,ASSUMED,Legacy RECETE!B7:C7; not industrially validated
+EGGPLANT,Patlıcan,0.28,700000.0000000001,700.0000000000001,,,,,,,2.8000000000000003,16,ASSUMED,Legacy RECETE!B8:C8; not industrially validated
+GARLIC_DRY,Kuru sarımsak,0.04,100000.0,100.0,,,,,,,0.4,80,ASSUMED,Legacy RECETE!B9:C9; not industrially validated
+REFINED_SUNFLOWER_OIL,Rafine ayçiçek yağı,0.09,225000.0,225.0,,,,,,,0.9,65,ASSUMED,Legacy RECETE!B10:C10; not industrially validated
+SPICES,Baharat karışımı,0.012,30000.0,30.0,,,,,,,0.12,140,ASSUMED,Legacy RECETE!B11:C11; not industrially validated
+SALT,Tuz,0.016,40000.0,40.0,,,,,,,0.16,8,ASSUMED,Legacy RECETE!B12:C12; not industrially validated
+VINEGAR,Sirke,0.025,62500.0,62.5,,,,,,,0.25,20,ASSUMED,Legacy RECETE!B13:C13; not industrially validated

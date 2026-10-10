@@ -1,0 +1,26 @@
+﻿field,definition,required
+year,Observation year; integer,True
+province,Official province name,True
+district,District name; empty only for provincial/national level,True
+product_code,Project product classification,True
+product_description,Original product description,True
+metric,production / area / yield / farm_gate_price,True
+value,Numeric value; empty means missing,True
+unit,t / kg / ha / da / t_per_ha / kg_per_da / TRY_per_kg,True
+source_institution,Publishing institution,True
+source_url,Exact source URL,True
+reference_year,Year measured; must agree with year,True
+publication_date,ISO date or empty if unavailable,False
+access_date,ISO date,True
+data_status,VERIFIED / ESTIMATED / ASSUMED / MISSING,True
+notes,Transformations and caveats,True
+geographic_level,district / province / national,True
+source_id,Registry key,True
+official_product_code,Source classification code or empty; never invented,False
+available_date,"Earliest public availability, ISO date; missing excludes ex-ante model",False
+original_unit,Original measurement unit,False
+original_value,Original reported number,False
+raw_file,Preserved relative source path,True
+province_code,Province/plate identifier; normalization registry,False
+district_code,Official district identifier; blank until source verified,False
+constant_price_try,Farm-gate TRY/kg normalized by verified official annual index levels,False

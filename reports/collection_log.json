@@ -1,0 +1,110 @@
+[
+  {
+    "source_id": "TEPGE_TOMATO_2024",
+    "url": "https://arastirma.tarimorman.gov.tr/tepge/Belgeler/PDF%20%C3%9Cr%C3%BCn%20Raporlar%C4%B1/2024%20%C3%9Cr%C3%BCn%20Raporlar%C4%B1/Domates%20%C3%9Cr%C3%BCn%20Raporu%202024-396%20TEPGE.pdf",
+    "raw_file": "data\\raw\\official\\tomato_report_2024.pdf",
+    "access_date": "2026-10-10",
+    "status": "PRESERVED",
+    "sha256": "a0db4ae6388292503e74be18a632e12bf3069d6a6009cfafb64178485a86dc4d",
+    "bytes": 1426672
+  },
+  {
+    "source_id": "KGM_DISTANCES",
+    "url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Root/Uzakliklar.aspx",
+    "raw_file": "data\\raw\\official\\kgm_distances.html",
+    "access_date": "2026-10-10",
+    "status": "PRESERVED",
+    "sha256": "cb2497cd16a68ffd2676547ae0f2871772d956d18838f55ce51ce691ee719daf",
+    "bytes": 93275
+  },
+  {
+    "source_id": "MKP_OSB",
+    "url": "https://www.mkposb.org.tr/tarihce",
+    "raw_file": "data\\raw\\official\\mkp_osb.html",
+    "access_date": "2026-10-10",
+    "status": "PRESERVED",
+    "sha256": "f9b50161da927b5c27d0320968c618ca57b2b0976c8a6af700a0578c170805b6",
+    "bytes": 20279
+  },
+  {
+    "source_id": "SALIHLI_OSB",
+    "url": "https://salihliosb.org.tr/hizmetler/",
+    "raw_file": "data\\raw\\official\\salihli_osb.html",
+    "access_date": "2026-10-10",
+    "status": "PRESERVED",
+    "sha256": "d0b70fd5a78ff7c4995b972b93db9b5b2f8a93e813fe8401147ccb648fefec17",
+    "bytes": 201322
+  },
+  {
+    "source_id": "GONEN_OSB",
+    "url": "https://www.gonenosb.org.tr/",
+    "raw_file": "data\\raw\\official\\gonen_osb.html",
+    "access_date": "2026-10-10",
+    "status": "PRESERVED",
+    "sha256": "4ecfef41cf4465316e80375cc952cdc1135bc9e6bff0f78a1f9990862d2b6e46",
+    "bytes": 16967
+  },
+  {
+    "source_id": "GUIDE_6",
+    "url": "https://www.tarimorman.gov.tr/TRGM/TARYAT/Belgeler/Tarımsal%20yatırım%20rehberi/Bursa%20Tarımsal%20Yatırım%20Rehberi-2025.pdf",
+    "raw_file": "data\\raw\\official\\guide_6.pdf",
+    "access_date": "2026-10-10",
+    "status": "PRESERVED",
+    "sha256": "0b520ffc6c25e9bd3bc1297ce82a440872f602713167cacf03cdc0dda2bb0772",
+    "bytes": 1867069
+  },
+  {
+    "source_id": "GUIDE_7",
+    "url": "https://www.tarimorman.gov.tr/TRGM/TARYAT/Belgeler/Tarımsal%20yatırım%20rehberi/Manisa%20Tarımsal%20Yatırım%20Rehberi-2025.pdf",
+    "raw_file": "data\\raw\\official\\guide_7.pdf",
+    "access_date": "2026-10-10",
+    "status": "PRESERVED",
+    "sha256": "d5d9ccb5492f2f3038d3557abcfbd50f6dc86163693bc1ed0e98e6e061cae89f",
+    "bytes": 1644525
+  },
+  {
+    "source_id": "GUIDE_8",
+    "url": "https://www.tarimorman.gov.tr/TRGM/TARYAT/Belgeler/Tarımsal%20yatırım%20rehberi/Balıkesir%20Tarımsal%20Yatırım%20Rehberi-2025.pdf",
+    "raw_file": "data\\raw\\official\\guide_8.pdf",
+    "access_date": "2026-10-10",
+    "status": "PRESERVED",
+    "sha256": "eec97d3230d94ab9e3da75d372673a9df3b9170e39eeb55747965b174619355c",
+    "bytes": 1592423
+  },
+  {
+    "source_id": "KGM_DISTRICT_XLSX",
+    "url": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Root/Uzakliklar/ilcemesafe.xlsx",
+    "raw_file": "data\\raw\\official\\ilcemesafe.xlsx",
+    "access_date": "2026-10-10",
+    "status": "PRESERVED",
+    "sha256": "89f6160ada6260a1f3ce3f6c481c2bdae842b34760f4a6a8180e1aa38f006526",
+    "bytes": 27995105
+  },
+  {
+    "source_id": "KGM_PROVINCE_XLSX",
+    "url": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Root/Uzakliklar/ilmesafe.xlsx",
+    "raw_file": "data\\raw\\official\\ilmesafe.xlsx",
+    "access_date": "2026-10-10",
+    "status": "PRESERVED",
+    "sha256": "6445f95cc57c87d375962bf823e552b745d61a4d4a0159ade516fc284e3cefaf",
+    "bytes": 57535
+  },
+  {
+    "source_id": "KGM_DISTANCES",
+    "url": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Root/Uzakliklar/ilmesafe.xlsx",
+    "raw_file": "data/raw/official/ilmesafe.xlsx",
+    "access_date": "2026-10-10",
+    "status": "PRESERVED",
+    "sha256": "6445f95cc57c87d375962bf823e552b745d61a4d4a0159ade516fc284e3cefaf",
+    "bytes": 57535
+  },
+  {
+    "source_id": "KGM_DISTANCES",
+    "url": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Root/Uzakliklar/ilcemesafe.xlsx",
+    "raw_file": "data/raw/official/ilcemesafe.xlsx",
+    "access_date": "2026-10-10",
+    "status": "PRESERVED",
+    "sha256": "89f6160ada6260a1f3ce3f6c481c2bdae842b34760f4a6a8180e1aa38f006526",
+    "bytes": 27995105
+  }
+]

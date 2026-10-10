@@ -1,0 +1,4 @@
+﻿site,label_tr,status,npv,irr,payback_years,missing
+BURSA_MKP,Bursa – Mustafakemalpaşa OSB,NOT_ESTIMABLE,,,,"config.demand_kg, site.outbound_try_per_kg, site.maintenance_try, annual_landed_cost"
+MANISA_SALIHLI,Manisa – Salihli OSB,NOT_ESTIMABLE,,,,"config.demand_kg, site.outbound_try_per_kg, site.maintenance_try, annual_landed_cost"
+BALIKESIR_GONEN,Balıkesir – Gönen Deri İhtisas ve Karma OSB,NOT_ESTIMABLE,,,,"config.demand_kg, site.outbound_try_per_kg, site.maintenance_try, annual_landed_cost"

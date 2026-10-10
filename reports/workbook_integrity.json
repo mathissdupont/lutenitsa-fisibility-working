@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "sheets": 24,
+  "formula_count": 932,
+  "formula_errors": 0,
+  "tables": 18,
+  "charts": 1,
+  "fixtures_created": [
+    "base",
+    "low_demand",
+    "short_life"
+  ]
+}

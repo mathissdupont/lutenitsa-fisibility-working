@@ -1,0 +1,25 @@
+{
+  "recordCount": 4,
+  "truncated": false,
+  "metadata": {
+    "revision": "6r2inu",
+    "target": {
+      "id": "wb/vd67kb",
+      "beforeLines": 0,
+      "afterLines": 0
+    },
+    "kind": {
+      "requested": "region",
+      "tokens": [
+        "region"
+      ]
+    },
+    "include": {
+      "tokens": []
+    },
+    "exclude": {
+      "tokens": []
+    },
+    "notices": []
+  }
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "site": "BURSA_MKP",
+    "draws": 500,
+    "feasible_draws": 121,
+    "infeasible_supply_share": 0.758,
+    "mean_npv": -74027281.9151139,
+    "p05_npv": -338204401.2260968,
+    "p50_npv": -49546077.58070519,
+    "p95_npv": 107882907.98522863,
+    "negative_npv_share_conditional": 0.6611570247933884,
+    "risk_adjusted_score": -140071561.74285963,
+    "interpretation": "Uncalibrated independent triangular assumptions; NPV statistics conditional on feasible supply. Infeasible draws are not dropped from feasibility reporting. No empirical probability claim."
+  },
+  {
+    "site": "MANISA_SALIHLI",
+    "draws": 500,
+    "feasible_draws": 121,
+    "infeasible_supply_share": 0.758,
+    "mean_npv": -82336076.23754892,
+    "p05_npv": -349511042.7944978,
+    "p50_npv": -56356078.31800907,
+    "p95_npv": 101334075.01527062,
+    "negative_npv_share_conditional": 0.6942148760330579,
+    "risk_adjusted_score": -149129817.87678614,
+    "interpretation": "Uncalibrated independent triangular assumptions; NPV statistics conditional on feasible supply. Infeasible draws are not dropped from feasibility reporting. No empirical probability claim."
+  },
+  {
+    "site": "BALIKESIR_GONEN",
+    "draws": 500,
+    "feasible_draws": 121,
+    "infeasible_supply_share": 0.758,
+    "mean_npv": -70697725.43075064,
+    "p05_npv": -336269468.48196787,
+    "p50_npv": -45014532.41853896,
+    "p95_npv": 112515099.16288815,
+    "negative_npv_share_conditional": 0.6528925619834711,
+    "risk_adjusted_score": -137090661.19355494,
+    "interpretation": "Uncalibrated independent triangular assumptions; NPV statistics conditional on feasible supply. Infeasible draws are not dropped from feasibility reporting. No empirical probability claim."
+  }
+]

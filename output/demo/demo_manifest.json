@@ -1,0 +1,8 @@
+{
+  "status": "ASSUMED",
+  "calibration": "None",
+  "demand_kg": 2500000,
+  "maintenance_try": 0,
+  "harvest_policy": "Buffer 1.0; shortfall draws infeasible; no emergency supply assumed",
+  "notes": "These examples never feed the real report or site recommendation."
+}

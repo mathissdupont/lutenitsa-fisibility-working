@@ -1,0 +1,11 @@
+{
+  "status": "NOT_ESTIMABLE",
+  "reason": "Dated supplier offers, participation, quality, monthly seasonality, last-mile routes, losses, storage and truck quotes missing",
+  "missing_configuration": [
+    "monthly_production_fractions",
+    "storage_capacity_tonnes",
+    "storage_try_per_tonne_month",
+    "inventory_loss_fraction"
+  ],
+  "agricultural_production_used_as_offer": false
+}

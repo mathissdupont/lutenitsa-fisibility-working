@@ -1,0 +1,10 @@
+﻿site,weight_case,evidence_score,expert_score,status,eligibility,notes
+BURSA_MKP,equal,,,MISSING,UNVERIFIED,Weights are editable assumptions. No scores invented. Financial ranking is separate.
+BURSA_MKP,raw_material_priority,,,MISSING,UNVERIFIED,Weights are editable assumptions. No scores invented. Financial ranking is separate.
+BURSA_MKP,market_priority,,,MISSING,UNVERIFIED,Weights are editable assumptions. No scores invented. Financial ranking is separate.
+MANISA_SALIHLI,equal,,,MISSING,UNVERIFIED,Weights are editable assumptions. No scores invented. Financial ranking is separate.
+MANISA_SALIHLI,raw_material_priority,,,MISSING,UNVERIFIED,Weights are editable assumptions. No scores invented. Financial ranking is separate.
+MANISA_SALIHLI,market_priority,,,MISSING,UNVERIFIED,Weights are editable assumptions. No scores invented. Financial ranking is separate.
+BALIKESIR_GONEN,equal,,,MISSING,UNVERIFIED,Weights are editable assumptions. No scores invented. Financial ranking is separate.
+BALIKESIR_GONEN,raw_material_priority,,,MISSING,UNVERIFIED,Weights are editable assumptions. No scores invented. Financial ranking is separate.
+BALIKESIR_GONEN,market_priority,,,MISSING,UNVERIFIED,Weights are editable assumptions. No scores invented. Financial ranking is separate.

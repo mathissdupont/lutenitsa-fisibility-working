@@ -1,0 +1,40 @@
+{
+  "status": "PASS",
+  "engine": "artifact-tool",
+  "financial_checks": [
+    {
+      "name": "base",
+      "checks": {
+        "npv": true,
+        "ebitda": true,
+        "break_even_price": true,
+        "cashflows": true,
+        "tax": true,
+        "depreciation": true
+      }
+    },
+    {
+      "name": "low_demand",
+      "checks": {
+        "npv": true,
+        "ebitda": true,
+        "break_even_price": true,
+        "cashflows": true,
+        "tax": true,
+        "depreciation": true
+      }
+    },
+    {
+      "name": "short_life",
+      "checks": {
+        "npv": true,
+        "ebitda": true,
+        "break_even_price": true,
+        "cashflows": true,
+        "tax": true,
+        "depreciation": true
+      }
+    }
+  ],
+  "native_excel_status": "COM Workbooks.Open unavailable in execution session; independent formula engine used"
+}

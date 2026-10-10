@@ -1,0 +1,7 @@
+{
+  "status": "CONDITIONAL_ONLY",
+  "preferred_site": null,
+  "reason": "No site has verified parcel eligibility or complete commercial inputs. Provincial processing-tomato totals do not prove local supplier availability or profitability.",
+  "fe401_pdf_status": "MISSING",
+  "conditional_rule": "Select the eligible site maximizing risk-adjusted ten-year real NPV after dated supply, market, utility and investment evidence is supplied."
+}

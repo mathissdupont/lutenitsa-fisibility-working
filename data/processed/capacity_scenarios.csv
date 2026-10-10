@@ -1,0 +1,13 @@
+﻿site,daily_tonnes,annual_capacity_kg,planned_production_kg,demand_kg,sold_kg,capex_try,status,reason
+BURSA_MKP,5,1250000,1250000.0,,,,NOT_ESTIMABLE,"Capacity-specific equipment, utilities, supplier and demand quotations required"
+BURSA_MKP,10,2500000,2500000.0,,,260000000.0,NOT_ESTIMABLE,"Capacity-specific equipment, utilities, supplier and demand quotations required"
+BURSA_MKP,25,6250000,6250000.0,,,,NOT_ESTIMABLE,"Capacity-specific equipment, utilities, supplier and demand quotations required"
+BURSA_MKP,50,12500000,12500000.0,,,,NOT_ESTIMABLE,"Capacity-specific equipment, utilities, supplier and demand quotations required"
+MANISA_SALIHLI,5,1250000,1250000.0,,,,NOT_ESTIMABLE,"Capacity-specific equipment, utilities, supplier and demand quotations required"
+MANISA_SALIHLI,10,2500000,2500000.0,,,242000000.0,NOT_ESTIMABLE,"Capacity-specific equipment, utilities, supplier and demand quotations required"
+MANISA_SALIHLI,25,6250000,6250000.0,,,,NOT_ESTIMABLE,"Capacity-specific equipment, utilities, supplier and demand quotations required"
+MANISA_SALIHLI,50,12500000,12500000.0,,,,NOT_ESTIMABLE,"Capacity-specific equipment, utilities, supplier and demand quotations required"
+BALIKESIR_GONEN,5,1250000,1250000.0,,,,NOT_ESTIMABLE,"Capacity-specific equipment, utilities, supplier and demand quotations required"
+BALIKESIR_GONEN,10,2500000,2500000.0,,,238000000.0,NOT_ESTIMABLE,"Capacity-specific equipment, utilities, supplier and demand quotations required"
+BALIKESIR_GONEN,25,6250000,6250000.0,,,,NOT_ESTIMABLE,"Capacity-specific equipment, utilities, supplier and demand quotations required"
+BALIKESIR_GONEN,50,12500000,12500000.0,,,,NOT_ESTIMABLE,"Capacity-specific equipment, utilities, supplier and demand quotations required"

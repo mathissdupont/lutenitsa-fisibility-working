@@ -1,0 +1,19 @@
+{
+  "observation_count": 38,
+  "verified_count": 38,
+  "district_verified_count": 0,
+  "expected_district_records": 2904,
+  "missing_district_records": 2904,
+  "duplicate_rows": 0,
+  "issues": [
+    {
+      "row": 35,
+      "issue": "POTENTIAL_OUTLIER",
+      "detail": "Median absolute deviation flag; retained for review"
+    }
+  ],
+  "aggregate_checks": [],
+  "deflator_status": "MISSING",
+  "official_district_codes": "MISSING",
+  "available_dates_missing": 38
+}

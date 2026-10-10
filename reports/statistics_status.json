@@ -1,0 +1,6 @@
+{
+  "status": "NOT_ESTIMABLE",
+  "district_rows": 0,
+  "feature_policy": "Lagged target available before January 1; no realized yield, current outcome or future weather predictors; no imputation; training-only scaling",
+  "interval_policy": "Multi-year prediction intervals withheld pending horizon-specific calibration. Scenarios require editable external assumptions."
+}

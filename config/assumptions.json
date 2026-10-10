@@ -1,0 +1,88 @@
+{
+  "report_date": "2026-10-10",
+  "historical_start": 2015,
+  "historical_end": 2025,
+  "forecast_years": [
+    2026,
+    2027,
+    2028,
+    2029,
+    2030
+  ],
+  "forecast_date": "2026-01-01",
+  "daily_tonnes": 10,
+  "operating_days": 250,
+  "jar_kg": 0.5,
+  "horizon_years": 10,
+  "capacity_scenarios": [
+    5,
+    10,
+    25,
+    50
+  ],
+  "price_basis": "real",
+  "base_price_year": 2026,
+  "discount_basis": "real",
+  "real_discount_rate": 0.12,
+  "tax_rate": 0.25,
+  "utilization": 1.0,
+  "demand_kg": null,
+  "selling_price_try_per_kg": 135,
+  "packaging_try_per_jar": 12,
+  "processing_try_per_kg": 7,
+  "waste_try_per_kg": 0.8,
+  "working_capital_try": 20000000,
+  "depreciable_fraction": 0.7,
+  "depreciation_years": 10,
+  "salvage_fraction": 0.2,
+  "replacement_capex_fraction": 0.01,
+  "truck_payload_tonnes": 20,
+  "freight_try_per_tonne_km": 4,
+  "handling_try_per_tonne": 250,
+  "empty_return_fraction": null,
+  "storage_try_per_tonne_month": null,
+  "storage_capacity_tonnes": null,
+  "finished_transport_mass_factor": null,
+  "supplier_participation_fraction": null,
+  "seed": 401,
+  "monte_carlo_draws": 500,
+  "monte_carlo_distributions": {
+    "price": [
+      0.85,
+      1,
+      1.15
+    ],
+    "demand": [
+      0.7,
+      1,
+      1.1
+    ],
+    "raw_cost": [
+      0.85,
+      1,
+      1.2
+    ],
+    "harvest": [
+      0.7,
+      1,
+      1.1
+    ],
+    "energy": [
+      0.85,
+      1,
+      1.25
+    ],
+    "freight": [
+      0.85,
+      1,
+      1.25
+    ]
+  },
+  "risk_penalty_fraction": 0.25,
+  "monthly_production_fractions": null,
+  "inventory_loss_fraction": null,
+  "integer_trucks": true,
+  "max_trucks_per_month": null,
+  "status": "ASSUMED",
+  "notes": "Numeric legacy financial inputs are hypothetical; missing new inputs block appraisal. Triangular Monte Carlo distributions are uncalibrated expert assumptions, not empirical probabilities."
+}

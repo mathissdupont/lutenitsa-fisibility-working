@@ -1,0 +1,13 @@
+﻿origin,site,road_km,type,source_url
+Karacabey,Bursa-Mustafakemalpasa,24,ONLINE_DISTRICT_APPROX,https://kmhesaplama.com/bursa-mustafakemalpasa-karacabey-arasi-kac-km/
+Karacabey,Manisa-Salihli,244,ONLINE_DISTRICT_APPROX,https://www.e-sehir.com/turkiye-haritasi/bursa-karacabey_manisa-salihli-yol-tarifi.html
+Karacabey,Balikesir-Gonen,81,ONLINE_DISTRICT_APPROX,https://kmhesaplama.com/bursa-karacabey-gonen-balikesir-arasi-kac-km/
+Salihli,Bursa-Mustafakemalpasa,226,ONLINE_DISTRICT_APPROX,https://www.flixbus.com.tr/otobus-seferleri/salihli-mustafakemalpasa
+Salihli,Manisa-Salihli,12,LOCAL_HYPOTHESIS,
+Salihli,Balikesir-Gonen,251,ONLINE_DISTRICT_APPROX,https://www.e-sehir.com/turkiye-haritasi/manisa-salihli_balikesir-gonen-yol-tarifi.html
+Akhisar,Bursa-Mustafakemalpasa,174,ONLINE_DISTRICT_APPROX,https://fromtodistance.com/akhisar-to-mustafakemalpasa/
+Akhisar,Manisa-Salihli,63,ONLINE_DISTRICT_APPROX,https://www.rome2rio.com/s/Akhisar/Salihli
+Akhisar,Balikesir-Gonen,203,ONLINE_DISTRICT_APPROX,https://kmhesaplama.com/manisa-akhisar-gonen-balikesir-arasi-kac-km/
+Susurluk,Bursa-Mustafakemalpasa,32,ONLINE_DISTRICT_APPROX,https://www.rotayolplanlama.com/susurluk_mustafakemalpasa-arasi-guzergah-tarifi.html
+Susurluk,Manisa-Salihli,196,ONLINE_DISTRICT_APPROX,https://arasikac.com/susurluk-salihli-arasi-kac-km-saat/
+Susurluk,Balikesir-Gonen,72,ONLINE_DISTRICT_APPROX,https://kmhesaplama.com/balikesir-gonen-susurluk-arasi-kac-km/
